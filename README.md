@@ -18,8 +18,6 @@
 <img height="70" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"/>
 <img height="70" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-128.png"/>
 <img height="70" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-128.png"/>
-<img height="70" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png"/>
-<img height="70" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/>
 </p>
 <br/>
 <div align="center">
