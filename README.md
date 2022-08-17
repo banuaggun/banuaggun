@@ -7,7 +7,7 @@
 
 <h4>Tools & Technologies I Use</h4>
 
-<p>
+<p align="center">
 <img height="70" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-128.png"/>
 <img height="70" src="https://cdn3.iconfinder.com/data/icons/adobe-family-software/512/Adobe-35-128.png"/>
 <img height="70" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/>
