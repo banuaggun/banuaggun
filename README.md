@@ -36,7 +36,9 @@
   <a target="_blank" href="https://dribbble.com/banuaggun">
     <img height="70" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_dribbble-128.png"/>
   </a>
-  
+  <a target="_blank" href="https://portfolio-banuaggun.vercel.app/">
+    <img height="80" src="https://avatars.githubusercontent.com/u/37499235?v=4" />
+  </a>
 </p>
 
 <!--
