@@ -36,12 +36,14 @@
   <a target="_blank" href="https://dribbble.com/banuaggun">
     <img height="70" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_dribbble-128.png"/>
   </a>
-  <a target="_blank" href="https://portfolio-banuaggun.vercel.app/">
-    <img height="80" src="https://avatars.githubusercontent.com/u/37499235?s=400&u=9a081990967160856499f9207d6636ca9a2776bd&v=4" />
-  </a>
+ 
 </p>
 
 <!--
+
+ <a target="_blank" href="https://portfolio-banuaggun.vercel.app/">
+    <img height="80" src="https://avatars.githubusercontent.com/u/37499235?s=400&u=9a081990967160856499f9207d6636ca9a2776bd&v=4" />
+  </a>
 - :seedling: I want to collaborate on a frontend project with its design
 - 📫 How to reach me [links](https://linktr.ee/banuaggun)
 -->
