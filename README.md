@@ -19,10 +19,11 @@
 <img height="70" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-128.png"/>
 <img height="70" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-128.png"/>
 </p>
-<br/>
+<!--
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=banuaggun&layout=compact"/>
 </div>
+-->
 <br/>
 <h4>Links You Can reach Me</h4>
 
