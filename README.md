@@ -2,7 +2,7 @@
 
 <h4>About Me</h4>
 
->_I'm a Ui/Ux Designer specializing in building (and occasionally coding) exceptional design experiences. Currently, I'm focused on building user interface design and responsive frontend web applications._
+>_As a Ui/Ux Designer, I have a passion for creating (and sometimes coding) outstanding design experiences. My current focus is on developing user interface design and responsive frontend web applications. When I'm not committing code, I'm working on a new interface design project._
 
 
 <h4>Tools & Technologies I Use</h4>
