@@ -18,6 +18,7 @@
 <img height="70" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"/>
 <img height="70" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-128.png"/>
 <img height="70" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-128.png"/>
+<img height="70" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png"/>
 </p>
 <!--
 <div align="center">
